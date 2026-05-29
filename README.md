@@ -20,7 +20,7 @@ This document describes how faith-driven leader and company data is collected, w
 ## Tool Stack & Evolution
 
 ### Current Primary: Comet (Perplexity Agent)
-Comet is a browser extension that runs a Perplexity-powered AI agent inline. It is the primary extraction tool because:
+Comet is a browser that runs a Perplexity-powered AI agent. It is the primary extraction tool because:
 - Runs multiple internal search agents in parallel (~30 seconds per entry)
 - Perplexity is optimized for web research — high accuracy on company/leader lookups
 - Handles multi-tab extraction efficiently
