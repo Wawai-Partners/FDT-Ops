@@ -3,7 +3,7 @@
 ## Source
 **U.S. Christian Chamber of Commerce (USCCC)** — a membership directory of Christian-owned and faith-aligned businesses across the US.
 
-- **Member directory:** [https://christianchamber.net/](https://business.uschristianchamber.com/directory) (or the main member listing page), Go through each one of the categories
+- **Member directory:** [https://christianchamber.net/](https://business.uschristianchamber.com/directory) (or the main member listing page)
 - **Network affiliation value:** `U.S. Christian Chamber of Commerce`
 
 ## When to Use
@@ -14,10 +14,11 @@ Comet (Perplexity agent) — primary. Gemini on Chrome — fallback when Perplex
 
 ## Workflow
 1. Open the USCCC member directory
-2. Open **5 member/business pages at a time** in new tabs
-3. In each tab, paste the extraction prompt below and run it
-4. Use macro to copy CSV output → switch to .csv file → paste
-5. Close those 5 tabs, open the next 5, repeat until all members are covered
+2. Pick a category
+3. Open **5 member/business pages at a time** in new tabs
+4. In each tab, paste the extraction prompt below and run it
+5. Use macro to copy CSV output → switch to .csv file → paste
+6. Close those 5 tabs, open the next 5, repeat until all members are covered
 
 ## Notes
 - Get the company Website URL from the "Visit website" link on each member profile
