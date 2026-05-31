@@ -93,7 +93,7 @@ Company Name|Website|Industry|Sub-Industry|...|Leader LinkedIn URL|...|Date Adde
 
 ### Collection
 - Macro automates: copy from browser → switch to .csv file → paste
-- Raw data lands in `.csv` files in the `data/` folder of this repo
+- Raw data lands in `.csv` files
 - Semi-automated: macro handles copy/paste; human judgment handles tab selection and dedup
 
 ### Import
