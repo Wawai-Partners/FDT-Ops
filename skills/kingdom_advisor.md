@@ -18,7 +18,7 @@ Comet (Perplexity agent) — primary. Gemini on Chrome — fallback when Perplex
 ## Workflow
 1. Open https://www.faithfi.com/find-a-cka
 2. Search each city from the city list below (Phase 1, then Phase 2)
-3. **Manually review results** — the same advisor often appears under multiple city searches; pick unique individuals only
+3. **Manually review results** — Pick the category, and cherry-pick each advisor; the same advisor often appears under multiple city searches; pick unique individuals only
 4. Open selected advisor profiles in new tabs
 5. Paste the extraction prompt in each tab and run it
 6. Use macro to copy CSV output → switch to .csv file → paste
