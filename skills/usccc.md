@@ -3,7 +3,7 @@
 ## Source
 **U.S. Christian Chamber of Commerce (USCCC)** — a membership directory of Christian-owned and faith-aligned businesses across the US.
 
-- **Member directory:** https://christianchamber.net/ (or the main member listing page)
+- **Member directory:** [https://christianchamber.net/](https://business.uschristianchamber.com/directory) (or the main member listing page), Go through each one of the categories
 - **Network affiliation value:** `U.S. Christian Chamber of Commerce`
 
 ## When to Use
